@@ -1,0 +1,6 @@
+.git
+.idea
+mysiteConfig
+db.sqlite3
+mysite
+mysite/*
